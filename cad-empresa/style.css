@@ -1,0 +1,39 @@
+body {
+    position: fixed;
+    top: 10PX;
+    right: 0PX;
+    bottom: 0PX;
+    left: 0PX;
+    margin: 0PX;
+    padding: 0PX;
+    background-color: rgb(170, 0, 255);
+}
+
+form
+label {
+display: block;
+padding: 10PX;
+}
+
+form {
+    width: 270px;
+    margin: 28px;
+    background-color: rgb(255, 255, 255);
+}
+label {
+    color: rgb(0, 0, 0);
+    text-align: left;
+    padding: 10px;
+    display: block;
+}
+input {
+    display: inline-block;
+    padding-left: 90px;
+}
+p {
+    font-size:'courier New' courier, monospace;
+    font-size: x-large;
+    color: rgb(0, 0, 0);
+    padding: 1%;
+    margin-left: 2%;
+}
